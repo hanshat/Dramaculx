@@ -1,5 +1,5 @@
 import "./globals.css";
-import Header from "./components/header/header.jsx";
+import Header from "./components/header/header";
 import { lexend } from "../../config/fonts";
 
 import { Providers } from "./themeManager";
